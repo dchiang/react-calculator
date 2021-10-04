@@ -3,7 +3,7 @@ import Label from "./Label.js";
 
 const ResultBox = (props) => {
   return (
-    <Label text={props.text} readOnly={true} rows="1" cols="5" maxLength="4" />
+    <Label text={props.text} readOnly={true} rows="1" cols="8" maxLength="4" />
   );
 };
 
