@@ -1,4 +1,9 @@
-node_modules
+# dependencies
+/node_modules
+
+# production
+/build
+
 .pnp.*
 .yarn/*
 !.yarn/patches

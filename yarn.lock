@@ -6439,19 +6439,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"f2-calculate@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "f2-calculate@workspace:."
-  dependencies:
-    "@babel/runtime": 7.16.0
-    gh-pages: ^3.2.3
-    react: 17.0.2
-    react-dom: 17.0.2
-    react-scripts: 4.0.3
-    typescript: 4.4.4
-  languageName: unknown
-  linkType: soft
-
 "fast-deep-equal@npm:^3.1.1, fast-deep-equal@npm:^3.1.3":
   version: 3.1.3
   resolution: "fast-deep-equal@npm:3.1.3"
@@ -11980,6 +11967,19 @@ __metadata:
   checksum: 99e52a6b2229c7ca730cfd44ac95640f955be71d144225bd6c24fa47922a742658a371d0a2f0876d732533f1055b7cd7e9d534c89c29f8ca889ecd1b8d15f065
   languageName: node
   linkType: hard
+
+"react-calculator@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "react-calculator@workspace:."
+  dependencies:
+    "@babel/runtime": 7.16.0
+    gh-pages: ^3.2.3
+    react: 17.0.2
+    react-dom: 17.0.2
+    react-scripts: 4.0.3
+    typescript: 4.4.4
+  languageName: unknown
+  linkType: soft
 
 "react-dev-utils@npm:^11.0.3":
   version: 11.0.4
